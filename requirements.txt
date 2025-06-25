@@ -1,7 +1,5 @@
-cv2
+opencv-python
 mediapipe
-math
 numpy
-ctypes
 comtypes
 pycaw
